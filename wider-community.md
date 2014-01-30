@@ -11,6 +11,7 @@ As well as the projects hosted here, there are a number of projects available in
 
 If your project is not listed here, please fork [this repo](https://github.com/WindowsAzure-Contrib/WindowsAzure-Contrib.github.io) and add it!
 
+---
 ## Projects related to Azure Features
 
 ### Windows Azure Web Sites
@@ -41,6 +42,7 @@ If your project is not listed here, please fork [this repo](https://github.com/W
 
 * __[SQLDatabaseBackup](https://github.com/richorama/SQLDatabaseBackup)__ A command line tool for backing up a Windows Azure SQL Database to Blob Storage, by making a copy of the database
 
+---
 ## Projects related to Languages / Frameworks
 
 ### .NET / Mono
