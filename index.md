@@ -5,13 +5,13 @@ tagline: Community contributions for Windows Azure
 ---
 {% include JB/setup %}
 
-![Windows Azure Contrib](https://0.gravatar.com/avatar/1682a2f4f22a7037e01e68c53f137ede?d=https%3A%2F%2Fidenticons.github.com%2F9e8c9b82feedf42e61c3599e64f30910.png&r=x&s=250)
-
 ## About
 
 This GitHub organisation aims to bring together a collection of [Open Source Software projects](https://github.com/orgs/WindowsAzure-Contrib) related to Microsoft Windows Azure.
 
 The organisation is guided by a [small team](https://github.com/orgs/WindowsAzure-Contrib/teams/owners) of open source contributors.
+
+---
     
 ## Wider Community
 
@@ -86,6 +86,7 @@ If your project is not listed here, please fork [this repo](https://github.com/W
 
 * __[cl-azure](https://github.com/robblackwell/cl-azure)__ A Windows Azure cloud services library for Common Lisp
 
+---
 
 ## Updates
 
