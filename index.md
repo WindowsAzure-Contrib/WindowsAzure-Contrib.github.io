@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: Windows Azure Contrib
 tagline: Community contributions for Windows Azure
 ---
