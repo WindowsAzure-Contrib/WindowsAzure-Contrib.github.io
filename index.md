@@ -47,7 +47,7 @@ If your project is not listed here, please fork [this repo](https://github.com/W
 
 ### .NET / Mono
 
-* __[hAzureDirectory](https://github.com/WindowsAzure-Contrib/AzureDirectory)__ A Lucene Directory Provider for Windows Azure Blob Storage
+* __[AzureDirectory](https://github.com/WindowsAzure-Contrib/AzureDirectory)__ A Lucene Directory Provider for Windows Azure Blob Storage
 * __[WazStorageExtensions](https://github.com/smarx/WazStorageExtensions)__ Useful extension methods for Windows Azure storage operations that aren't covered by the .NET client library
 * __[azure-sdk-for-mono](https://github.com/richorama/azure-sdk-for-mono)__ Fork of the Windows Azure SDK for .NET repo, modified to compile for mono
 
