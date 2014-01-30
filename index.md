@@ -5,6 +5,8 @@ tagline: Community contributions for Windows Azure
 ---
 {% include JB/setup %}
 
+<link rel="nuget" type="application/rsd+xml" href="https://www.myget.org/Discovery/Feed/windowsazure-contrib/" />
+
 
 This GitHub organisation aims to bring together a collection of [Open Source Software projects](https://github.com/orgs/WindowsAzure-Contrib) related to Microsoft Windows Azure.
 
