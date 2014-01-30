@@ -11,6 +11,10 @@ This GitHub organisation aims to bring together a collection of [Open Source Sof
 
 The organisation is guided by a [small team](https://github.com/orgs/WindowsAzure-Contrib/teams/owners) of open source contributors.
 
+[View on GitHub](https://github.com/WindowsAzure-Contrib/)
+
+[Follow on Twitter](https://twitter.com/azurecontrib)
+
 ---
     
 ## Wider Community
