@@ -82,3 +82,14 @@ a {
   color: #00abec;
 }
 
+.jumbotron {
+  background-color: #00abec;
+}
+
+.title{
+  color:white;
+}
+
+.subtitle {
+  color:#CCC;
+}
