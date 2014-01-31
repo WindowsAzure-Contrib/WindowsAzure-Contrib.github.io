@@ -86,7 +86,7 @@ a {
   background-color: #00abec;
 }
 
-.title{
+.jumbotron h1, .jumbotron .h1 {
   color:white;
 }
 
