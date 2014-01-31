@@ -4,8 +4,6 @@ title: Wider Community Projects
 ---
 {% include JB/setup %}
 
-# Projects in the Wider Community
-
 As well as the projects hosted here, there are a number of projects available in the wider community.
 
 If your project is not listed here, please fork [this repo](https://github.com/WindowsAzure-Contrib/WindowsAzure-Contrib.github.io) and add it!
