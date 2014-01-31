@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Windows Azure Contrib
-tagline: Community contributions for Windows Azure
+title: Wider Community Projects
 ---
 {% include JB/setup %}
 
