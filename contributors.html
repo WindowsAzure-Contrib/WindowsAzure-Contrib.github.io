@@ -30,7 +30,7 @@ $(function() {
 
 
 <script id="contributorTemplate" type="text/x-jQuery-tmpl">
-  {{each data}}
+  {{ "{{each data"}}}}
     {{if login != "invalid-email-address"}}  
       <div style="clear:both; margin: 8px; height: 80px; width: 600px;">
           <img src="${avatar_url}" alt="${name || login}" style="float:left; width:80px;" />
@@ -40,5 +40,5 @@ $(function() {
           </div>
       </div>
     {{/if}}
-  {{/each}}
+  {{ "{{/each "}}}}
 </script>
