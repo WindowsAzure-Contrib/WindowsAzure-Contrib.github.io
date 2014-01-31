@@ -93,3 +93,13 @@ a {
 .subtitle {
   color:#CCC;
 }
+
+.smalltron{
+  padding-top: 0;
+  padding-bottom: 12px;
+  margin-bottom: 12;
+
+}
+.smalltron h1, .smalltron .h1 {
+font-size: 36px;
+}
