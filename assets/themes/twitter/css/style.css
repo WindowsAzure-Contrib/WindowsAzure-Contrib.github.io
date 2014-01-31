@@ -101,5 +101,9 @@ a {
 
 }
 .smalltron h1, .smalltron .h1 {
-font-size: 36px;
+  font-size: 36px;
+}
+
+.smalltron a {
+  text-decoration: none
 }
