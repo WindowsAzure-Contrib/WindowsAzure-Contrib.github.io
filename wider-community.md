@@ -74,6 +74,7 @@ If your project is not listed here, please fork [this repo](https://github.com/W
 
 * __[azure-sdk-for-net](https://github.com/WindowsAzure/azure-sdk-for-net)__ Official Windows Azure SDK for .NET
 * __[azure-storage-net](https://github.com/WindowsAzure/azure-storage-net)__ Official Windows Azure Storage Libraries for .NET
+* __[AzureDataEaseOfUse](https://github.com/WindowsAzure-Contrib/AzureDataEaseOfUse)__ Less code developing against storage and caching
 * __[AzureDirectory](https://github.com/WindowsAzure-Contrib/AzureDirectory)__ A Lucene Directory Provider for Windows Azure Blob Storage
 * __[WazStorageExtensions](https://github.com/smarx/WazStorageExtensions)__ Useful extension methods for Windows Azure storage operations that aren't covered by the .NET client library
 * __[azure-sdk-for-mono](https://github.com/richorama/azure-sdk-for-mono)__ Fork of the Windows Azure SDK for .NET repo, modified to compile for mono
@@ -93,6 +94,8 @@ If your project is not listed here, please fork [this repo](https://github.com/W
 * __[node-azure-workshop](https://github.com/WindowsAzure-Contrib/node-azure-workshop)__ Node.js / Azure workshop materials
 * __[node-bluesky](https://github.com/pofallon/node-bluesky)__ A lightweight, simplified node.js library for accessing Windows Azure
 * __[connect-bluesky](https://github.com/pofallon/connect-bluesky)__ A Windows Azure table storage session store for the node.js Connect/Express web framework
+* __[passport-azure-ad](https://github.com/MSOpenTech/passport-azure-ad)__ Windows Azure Active Directory Authentication Strategies using Node and Passportjs
+* __[azureleveldown](https://github.com/richorama/azureleveldown)__ A drop-in replacement for LevelDOWN which persists data in Windows Azure Table Storage
 
 ### Python
 
