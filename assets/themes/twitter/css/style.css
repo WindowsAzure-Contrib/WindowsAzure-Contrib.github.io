@@ -91,7 +91,8 @@ a {
 }
 
 .subtitle {
-  color:#CCC;
+  color:white;
+  opacity:0.6;
 }
 
 .smalltron{
