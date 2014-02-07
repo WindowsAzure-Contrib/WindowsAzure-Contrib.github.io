@@ -16,6 +16,8 @@ The organisation is guided by a [small team](https://github.com/orgs/WindowsAzur
 
 [Follow on Twitter](https://twitter.com/azurecontrib)
 
+[Chat on JabbR](https://jabbr.net/#/rooms/WindowsAzure-Contrib)
+
 ---
 
 
