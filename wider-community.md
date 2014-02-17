@@ -34,6 +34,7 @@ If your project is not listed here, please fork [this repo](https://github.com/W
 * __[AzureStickySessions](https://github.com/WindowsAzure-Contrib/AzureStickySessions)__ An Azure role that configures ARR as a sticky session load balancer
 * __[mongo-azure](https://github.com/mongodb/mongo-azure)__ MongoDB on Azure Worker Roles
 * __[Two10.Azure.SelfDestruct](https://github.com/richorama/Two10.Azure.SelfDestruct)__ A library allowing an Azure WebRole/WorkerRole to delete itself 
+* __[WorkerRoleAccelerator](https://github.com/WindowsAzure-Contrib/WorkerRoleAccelerator)__ Windows Azure Worker Role Accelerator
 
 ### IaaS
 
