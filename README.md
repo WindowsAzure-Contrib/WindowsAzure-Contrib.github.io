@@ -1,4 +1,4 @@
-# WindowsAzure-Contrib web site
+# Azure-Contrib web site
 
 [http://windowsazure-contrib.github.io/](http://windowsazure-contrib.github.io/)
 
