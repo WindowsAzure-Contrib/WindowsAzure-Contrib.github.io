@@ -6,7 +6,7 @@ title: Wider Community Projects
 
 As well as the projects hosted here, there are a number of projects available in the wider community.
 
-If your project is not listed here, please fork [this repo](https://github.com/WindowsAzure-Contrib/WindowsAzure-Contrib.github.io) and add it!
+If your project is not listed here, please fork [this repo](https://github.com/azure-contrib/azure-contrib.github.io) and add it!
 
 ---
 
